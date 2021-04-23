@@ -15,6 +15,8 @@
 
 ### Example
 
+---
+
 ## Example Documentation
 
 ### Function/Overview
